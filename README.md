@@ -12,3 +12,5 @@
 
 
 ### Video 4: Min-Max range query | https://youtu.be/LJCJUF8wwmc?si=OB3XfuN_KrkJAzCd
+
+### Video 5: Maximum and it's frequency | https://youtu.be/gagM1HgWQaM
